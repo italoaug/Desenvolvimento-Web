@@ -6,7 +6,7 @@
 - [ver slides](https://docs.google.com/presentation/d/1J3IfXQrNrh7X2haozWCRD9sgUnJiSPWdrGBxCNdKOSM/edit?usp=sharing)
 ## Criação de Páginas Estáticas: HTML
 - [ver slides](https://docs.google.com/presentation/d/1nF3o0ZresBwH_bT8bwUwVHP4bPocxT8K5zXQ-a5TXio/edit?usp=sharing)
-- [códigos-fonte](https://github.com/italoaug/Desenvolvimento-Web/codigos/html)
+- [códigos-fonte](codigos/html)
 ## Criação de Páginas Estáticas: CSS
 ## Projeto - parte 1
 ## Criação de Páginas Estáticas: JavaScript

@@ -8,6 +8,8 @@
 - [ver slides](https://docs.google.com/presentation/d/1nF3o0ZresBwH_bT8bwUwVHP4bPocxT8K5zXQ-a5TXio/edit?usp=sharing)
 - [códigos-fonte](codigos/html)
 ## Criação de Páginas Estáticas: CSS
+- [ver slides](https://docs.google.com/presentation/d/1xOMbDbERaCr0DQGcOjuDlLaAJNXcJpFuYYVQ9xdVLDg/edit?usp=sharing)
+- [códigos-fonte](codigos/css)
 ## Projeto - parte 1
 ## Criação de Páginas Estáticas: JavaScript
 ## MVC, Servlets e JavaServer Pages

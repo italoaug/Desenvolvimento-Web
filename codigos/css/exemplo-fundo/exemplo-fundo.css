@@ -1,0 +1,10 @@
+#para-cor {
+    background-color: beige;
+}
+
+body {
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-attachment: scroll;
+}

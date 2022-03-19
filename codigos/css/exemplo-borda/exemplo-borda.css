@@ -1,0 +1,6 @@
+p.estilo {
+    border-style: ridge;
+    border-width: 2px 4px 8px 16px;
+    border-color: black blue red green;
+    border-radius: 15px;
+}

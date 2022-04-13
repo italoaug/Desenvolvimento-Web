@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt">
+    <head>
+        <title>Exemplo tabelas</title>
+        <style>
+            * {
+                font-size: xx-large;
+            }
+            /* apenas borda externa */
+            /* table {
+                border: 1px solid white;
+            } */
+            /* todas bordas */
+            table.exemplo1, table.exemplo1 th, table.exemplo1 td {
+                border: 1px solid white;
+            }
+            table {
+                width: 50%;
+                text-align: center;
+                margin: auto;
+                border-collapse: collapse;
+            }
+            table.exemplo2 {
+                color: black;
+            }
+            table.exemplo2 th, table.exemplo2 td {
+                height: 100px;
+                padding: 10px;
+                text-align: right;
+                vertical-align: top;
+                border-bottom: 1px solid red;
+            }
+            table.exemplo2 tr:nth-child(even) {
+                background-color: #c9c9c9;
+            }
+            table.exemplo2 tr:nth-child(odd) {
+                background-color: #acc9b1;
+            }
+            table.exemplo2 tr:hover {
+                background-color: coral;
+            }
+        </style>
+    </head>
+    <body>
+        <table class="exemplo1">
+            <caption>Horário</caption>
+            <tr>
+                <th>Quarta</th>
+                <th>Sexta</th>
+            </tr>
+            <tr>
+                <td>N34</td>
+                <td>N12</td>
+            </tr>
+        </table>
+        <br>
+        <table class="exemplo2">
+            <caption>Horário</caption>
+            <tr>
+                <th>Quarta</th>
+                <th>Sexta</th>
+            </tr>
+            <tr>
+                <td>N34</td>
+                <td>N12</td>
+            </tr>
+        </table>
+    </body>
+</html>

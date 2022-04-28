@@ -12,6 +12,8 @@
 - [códigos-fonte](codigos/css)
 ## Projeto - parte 1
 ## Criação de Páginas Estáticas: JavaScript
+- [ver slides](https://docs.google.com/presentation/d/1-49IOZgwnjS2zhUpYd4EQz3lm3PHr318kLJm4Zfkm9M/edit?usp=sharing)
+- [códigos-fonte](codigos/javascript)
 ## MVC, Servlets e JavaServer Pages
 ## JSTL
 ## Projeto - parte 2

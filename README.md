@@ -14,12 +14,9 @@
 ## Criação de Páginas Estáticas: JavaScript
 - [ver slides](https://docs.google.com/presentation/d/1-49IOZgwnjS2zhUpYd4EQz3lm3PHr318kLJm4Zfkm9M/edit?usp=sharing)
 - [códigos-fonte](codigos/javascript)
-## MVC, Servlets e JavaServer Pages
-## JSTL
 ## Projeto - parte 2
-## JSF
-## AJAX
-## Incorporando Banco de Dados
+## Back-end Django
+- [ver slides](https://docs.google.com/presentation/d/13zacbCYnczvIvUzzlPoVvzIlglLTNb07v5upC9iWCA4/edit?usp=sharing)
 ## Projeto - parte 3
 
 ---
